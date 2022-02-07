@@ -32,8 +32,8 @@ const Greeting = () => {
             <p style={{ fontSize: "16px" }}>
               senior-level Medical analysis, interested in Biochemistry ,
               especially things related to Medical analysis.
-              <img className="avatar" src={Avatar} alt="Avatar" />
             </p>
+            <img className="avatar" src={Avatar} alt="Avatar" />
 
             <div className="corner corner-br"></div>
             <div className="corner corner-bl"></div>

@@ -190,13 +190,14 @@ const Information = () => {
 
               <div className="social">
                 <a
-                  rel="noopener noreferrer"
+                  rel="noopener"
                   target="__blank"
-                  href="https://www.facebook.com/messages/t/100006387813010"
+                  href="https://m.facebook.com/messages/t/100006387813010"
                   aria-label="Facebook"
                 >
                   <div className="icon">
-                    <FaFacebookMessenger />
+                    {" "}
+                    <FaFacebookMessenger />{" "}
                   </div>
                   <p>Messenger</p>
                   <div className=""></div>

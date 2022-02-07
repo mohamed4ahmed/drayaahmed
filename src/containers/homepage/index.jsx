@@ -311,7 +311,7 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div className="app">
+    <div>
       {spinner ? (
         <Spinner />
       ) : (
