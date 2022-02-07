@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/drayaahmed/static/css/main.6e5e110c.css",
+    "main.js": "/drayaahmed/static/js/main.649bfdca.js",
+    "static/js/787.debf5d4d.chunk.js": "/drayaahmed/static/js/787.debf5d4d.chunk.js",
+    "static/media/weatherAppImage.jpg": "/drayaahmed/static/media/weatherAppImage.4f66e3c79c0910059d83.jpg",
+    "static/media/cowenterImage.jpg": "/drayaahmed/static/media/cowenterImage.7c392eb6e60f127112eb.jpg",
+    "static/media/smartBeamImage.jpg": "/drayaahmed/static/media/smartBeamImage.17d365b568344a5fa3d3.jpg",
+    "static/media/troyCoffeImage.jpg": "/drayaahmed/static/media/troyCoffeImage.8ada5b87756244389e64.jpg",
+    "static/media/todoappImage.jpg": "/drayaahmed/static/media/todoappImage.80b3e53afa395bca2153.jpg",
+    "static/media/TempsImage.jpg": "/drayaahmed/static/media/TempsImage.2809a932885d7cbe6b65.jpg",
+    "static/media/crochetArtImage.jpg": "/drayaahmed/static/media/crochetArtImage.34d85a52945cd1e1cfa4.jpg",
+    "static/media/safkaImage.jpg": "/drayaahmed/static/media/safkaImage.23a63a9f5f6ccd053f85.jpg",
+    "static/media/full-nguoi-edit.webp": "/drayaahmed/static/media/full-nguoi-edit.aa87405658ce7566c9ab.webp",
+    "static/media/recipeImage.jpg": "/drayaahmed/static/media/recipeImage.814473ccff714e3a8fe1.jpg",
+    "static/media/todosImage.jpg": "/drayaahmed/static/media/todosImage.0885e0a71dd093948cdb.jpg",
+    "static/media/no-image.jpg": "/drayaahmed/static/media/no-image.d09e503817275d6b9eb4.jpg",
+    "static/media/movieImage.jpg": "/drayaahmed/static/media/movieImage.994d976e3c598b438e93.jpg",
+    "static/media/avatar.webp": "/drayaahmed/static/media/avatar.5121bb3b8070275fa456.webp",
+    "static/media/slick.svg": "/drayaahmed/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/drayaahmed/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/drayaahmed/index.html",
+    "static/media/slick.ttf": "/drayaahmed/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/drayaahmed/static/media/slick.295183786cd8a1389865.woff",
+    "main.6e5e110c.css.map": "/drayaahmed/static/css/main.6e5e110c.css.map",
+    "main.649bfdca.js.map": "/drayaahmed/static/js/main.649bfdca.js.map",
+    "787.debf5d4d.chunk.js.map": "/drayaahmed/static/js/787.debf5d4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5e110c.css",
+    "static/js/main.649bfdca.js"
+  ]
+}
