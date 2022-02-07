@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29d43d31.css",
-    "main.js": "/static/js/main.bbb08896.js",
+    "main.css": "/static/css/main.d7c70f5d.css",
+    "main.js": "/static/js/main.9a7a8d49.js",
     "static/js/787.debf5d4d.chunk.js": "/static/js/787.debf5d4d.chunk.js",
     "static/media/weatherAppImage.jpg": "/static/media/weatherAppImage.4f66e3c79c0910059d83.jpg",
     "static/media/cowenterImage.jpg": "/static/media/cowenterImage.7c392eb6e60f127112eb.jpg",
@@ -11,6 +11,7 @@
     "static/media/TempsImage.jpg": "/static/media/TempsImage.2809a932885d7cbe6b65.jpg",
     "static/media/crochetArtImage.jpg": "/static/media/crochetArtImage.34d85a52945cd1e1cfa4.jpg",
     "static/media/safkaImage.jpg": "/static/media/safkaImage.23a63a9f5f6ccd053f85.jpg",
+    "static/media/full-nguoi-edit.webp": "/static/media/full-nguoi-edit.aa87405658ce7566c9ab.webp",
     "static/media/recipeImage.jpg": "/static/media/recipeImage.814473ccff714e3a8fe1.jpg",
     "static/media/avatar.png": "/static/media/avatar.fe4721cdaa72f080f115.png",
     "static/media/chan-dung-edit.png": "/static/media/chan-dung-edit.0885e0a71dd093948cdb.png",
@@ -23,12 +24,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.29d43d31.css.map": "/static/css/main.29d43d31.css.map",
-    "main.bbb08896.js.map": "/static/js/main.bbb08896.js.map",
+    "main.d7c70f5d.css.map": "/static/css/main.d7c70f5d.css.map",
+    "main.9a7a8d49.js.map": "/static/js/main.9a7a8d49.js.map",
     "787.debf5d4d.chunk.js.map": "/static/js/787.debf5d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29d43d31.css",
-    "static/js/main.bbb08896.js"
+    "static/css/main.d7c70f5d.css",
+    "static/js/main.9a7a8d49.js"
   ]
 }
